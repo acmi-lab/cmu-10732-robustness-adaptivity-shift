@@ -108,7 +108,7 @@ can be used for unstructured disucssions of project ideas
 with the instructor, TAs, and your peers.
 
 ## Grading
- * 25% weekly feedback on readings
+ * 25% weekly feedback on readings (students are allowed to miss 2 weeks with no explanation required)
  * 25% presentation
  * 25% participation
  * 25% projects
