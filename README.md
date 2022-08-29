@@ -117,7 +117,7 @@ with the instructor, TAs, and your peers.
 
 ## Tentative Topics
  * Adaptation under Causally Structured Shifts
- * Label and Covariate Shift
+ * Label, Covariate, and Missingness Shift
  * Strategic Classification and Performative Prediction
  * Domain Generalization
  * Shift Detection and Anomaly Detection
