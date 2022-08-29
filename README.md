@@ -1,4 +1,4 @@
-nstructor: Zachary Lipton (Director of ACMI lab)
+Instructor: Zachary Lipton (Director of [ACMI lab](https://acmilab.org))
 Time: Mondays 5pm–9pm
 Location: GHC 4303 (in person)
 TAs: [Shantanu Gupta](https://shantanu95.github.io/), [Gokul Swamy](https://gokul.dev/)
@@ -107,8 +107,8 @@ As the class progresses, the extra time after Monday's presentation
 can be used for unstructured disucssions of project ideas 
 with the instructor, TAs, and your peers.
 
-## Grades
- * 25% weekly feedback on reedings
+## Grading
+ * 25% weekly feedback on readings
  * 25% presentation
  * 25% participation
- * 25% 
+ * 25% projects
