@@ -2,6 +2,8 @@ Instructor: Zachary Lipton (Director of [ACMI lab](https://acmilab.org)) \
 Time: Mondays 5pm–9pm \
 Location: GHC 4303 (in person) \
 TAs: [Shantanu Gupta](https://shantanu95.github.io/), [Gokul Swamy](https://gokul.dev/) \
+Wellness Assistant:
+[Herbie Pink-Nose](https://www.instagram.com/herbie.pink.nose/?hl=en)
 Credits: 12
 
 ## What's the course about
