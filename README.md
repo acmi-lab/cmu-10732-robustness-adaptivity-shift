@@ -112,3 +112,18 @@ with the instructor, TAs, and your peers.
  * 25% presentation
  * 25% participation
  * 25% projects
+
+## Tentative Topics
+ * Adaptation under Causally Structured Shifts
+ * Label and Covariate Shift
+ * Strategic Classification and Performative Prediction
+ * Domain Generalization
+ * Shift Detection and Anomaly Detection
+ * Adversarial Examples and Certified Defenses
+ * Distributionally Robust Optimization
+ * Sequential Testing 
+ * Online/adversarial learning formulations
+ * Conformal Approaches
+ * Data Augmentation and Invariances
+ * Benchmarks (the landscape of existing benchmarks, the role of benchmarks, etc)
+ 
