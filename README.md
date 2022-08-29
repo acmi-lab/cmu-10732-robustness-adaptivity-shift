@@ -16,7 +16,7 @@ two-domain discrete shift setups versus continual shifts; benign shifts,
 versus targeted adversarial attacks, 
 shifts that preserve (factors of) causal structure and/or support 
 versus shifts that respect geometric invariances. 
-In this class we will take a grand tour of the literature 
+In this class, we will take a grand tour of the literature 
 on robustness and adaptation under distribution shift,
 bringing together perspectives from distributional robustness, 
 structural causal models, adversarial learning (in both senses),
