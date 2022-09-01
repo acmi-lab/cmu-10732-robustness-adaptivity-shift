@@ -129,4 +129,5 @@ with the instructor, TAs, and your peers.
  * Data Augmentation and Invariances
  * Benchmarks (the landscape of existing benchmarks, the role of benchmarks, etc)
  * Real-world failures / Deep Dive into Real Applications (healthcare, self-driving, etc)
+ * Tie-Ins with Fairness, Privacy, Explanation
  
