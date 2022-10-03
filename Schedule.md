@@ -1,3 +1,4 @@
+
 | Date | Topic | Readings |Speaker(s) | Weekly Check-in | Notes |
 | ---: | :--- | :--- | :--- | :--- | --- |
 |  8/29 | **Intro and Logistics** | None | Zack Lipton  | None | None |
@@ -7,10 +8,10 @@
 |  10/3 | **Domain Generalization**| **Required**: <ul><li>[Invariant Causal Prediction](https://arxiv.org/abs/1501.01332)</li><li>[Invariant Risk Minimization](https://arxiv.org/abs/1907.02893)</li><li>[In Search of Lost Domain Generalization](https://arxiv.org/abs/2007.01434)</li></ul> **Optional**: <ul><li>[The Risks of Invariant Risk Minimization](https://arxiv.org/abs/2010.05761)</li><li>[Learning to Generalize: Meta-Learning for Domain Generalization](https://arxiv.org/abs/1710.03463)</li></ul>  | Sameer Jain, Pranav Mani   | [Week 4](https://forms.gle/m8NmhQnnXsocj4Lv5) <br> ddl: 10/3 12:00pm | None |
 |  10/10 | **Adversarial Examples**| **Readings**: <ul><li>[Certified Adversarial Robustness via Randomized Smoothing](https://arxiv.org/abs/1902.02918)</li><li>[Certified Defenses against Adversarial Examples](https://arxiv.org/abs/1801.09344)</li><li>[Intriguing properties of neural networks](https://arxiv.org/abs/1312.6199)</li><li>[Explaining and Harnessing Adversarial Examples](https://arxiv.org/abs/1412.6572)</li><li>[Towards deep learning models resistant to adversarial attacks](https://arxiv.org/abs/1706.06083)</li></ul>  | Dhananjay Ashok, Olivier Filion | Week 5 | None |
 |  10/17 | **FALL BREAK/NO CLASS**| | | Week 6 | None |
-|  10/24 | Online Learning and Gradual Shift 1| | | Week 7 | None |
-|  10/31 | Online Learning and Gradual Shift 2| | | Week 8 | None |
-|  11/7 | Feedback-driven Shifts (Strategic Classification, Performative Prediction)| | | Week 9 | None |
-|  11/14 | Feedback-driven Shifts (Recommender Systems)| | | Week 10 | None |
-|  11/21 | Distribution Shifts in the Wild| | | Week 11 | None |
-|  11/28 | Fairness and Distribution Shifts| | | Week 12 | None |
+|  10/24 | **Online Learning/Gradual Shift**| | External speakers: Yu-Xiang Wang, Ananya Kumar| Week 7 | None |
+|  10/31 | **Conformal Inference, Sequential Testing**| | Aleksandr Podkopaev, Aditya Gangrade | Week 8 | None |
+|  11/7 | **Feedback-driven Shifts (Strategic Classification)**| | Anirudha Ramesh, Michael Agaby| Week 9 | None |
+|  11/14 | **Feedback-driven Shifts (Recommender Systems)**| | Thomson Yen, Degan Hao | Week 10 | None |
+|  11/21 | **Distribution Shifts in the Wild**| | Nicholas Chen, Xucheng Gong| Week 11 | None |
+|  11/28 | **Fairness and Distribution Shifts**| |Lingwei Cheng, John Long | Week 12 | None |
 |  12/5 | Poster Session| | | Week 13 | None |
